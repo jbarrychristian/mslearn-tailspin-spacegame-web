@@ -5,7 +5,7 @@
 #Test
 
 trigger:
-  - '*''
+- '*'
   
   pool:
     vmImage: 'ubuntu-16.04'
